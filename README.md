@@ -1,7 +1,8 @@
 # conversor-moedas-API
 
 ## Conclusão
-Este projeto é uma implementação simples de um conversor de moedas utilizando HTML, CSS e JavaScript, integrando-se a uma API de câmbio para realizar conversões dinâmicas. Ele pode ser estendido e melhorado de várias maneiras, incluindo a adição de mais moedas ou recursos como conversões múltiplas.
+Este projeto é uma outra versão mais atualizada de um outro trabalho que foi feito
+[conversor de moedas simples](https://github.com/mendesdafilla/conversor-de-moedas) utilizando HTML, CSS e JavaScript, integrando-se a uma API de câmbio para realizar conversões dinâmicas. 
 
 ## Estrutura do Projeto
 HTML (estrutura da página)
@@ -50,3 +51,6 @@ Instalar Dependências:
 O projeto final pode ser visto conforme imagem abaixo:
 
 ![projeto](projeto.png)
+
+# REFERENCIAS 
+* 
