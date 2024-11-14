@@ -46,3 +46,7 @@ Instalar Dependências:
 
 * Abra o arquivo index.html no seu navegador para visualizar e testar o conversor de moedas.
 
+# RESULTADO 
+O projeto final pode ser visto conforme imagem abaixo:
+
+![projeto](projeto.png)
